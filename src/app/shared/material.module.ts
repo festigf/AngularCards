@@ -48,7 +48,7 @@ import {MatTreeModule} from '@angular/material/tree';
     CdkStepperModule,
     CdkTableModule,
     CdkTreeModule,
-    DragDropModule,
+   // DragDropModule,
     MatAutocompleteModule,
     MatBadgeModule,
     MatBottomSheetModule,
